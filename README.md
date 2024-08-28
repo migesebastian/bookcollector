@@ -1,6 +1,6 @@
 # Book Collector App
 
-![Screenshot/Logo]()
+![main_app/static/images/Book.png]()
 
 ## App Description
 
@@ -8,7 +8,7 @@ The Book Collector App is a robust web application designed for bibliophiles to 
 
 ## Getting Started
 
-You can access the Book Collector App here: [https://github.com/migesebastian/bookcollector]().
+You can access the Book Collector App here: [https://bookcollector-018ae6dd666c.herokuapp.com]().
 
 For detailed planning materials and progress tracking, please refer to the Trello board [here](https://trello.com/b/PgPlnqmW/project-4).
 
