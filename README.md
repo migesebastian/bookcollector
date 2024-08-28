@@ -8,24 +8,20 @@ The Book Collector App is a robust web application designed for bibliophiles to 
 
 ## Getting Started
 
-You can access the Book Collector App here: [App Link]().
+You can access the Book Collector App here: [https://github.com/migesebastian/bookcollector]().
 
-For detailed planning materials and progress tracking, please refer to the Trello board [here](https://trello.com/b/WfVZKZYX/book-collector).
+For detailed planning materials and progress tracking, please refer to the Trello board [here](https://trello.com/b/PgPlnqmW/project-4).
 
 ## Attributions
 
 - [Catcollector]
 
 ## Technologies Used
-
-- **Frontend:**
   - HTML
   - CSS
   - Phython
-
-- **Backend:**
   - Django
-  - SQLite 
+  - PostgreSQL 
 
 ## Authentication & Authorization
 
