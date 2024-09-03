@@ -1,10 +1,10 @@
 # Book Collector App
 
-![main_app/static/images/Book.png]()
+![Bookpng](main_app/static/images/Book.png)
 
 ## App Description
 
-The Book Collector App is a robust web application designed for bibliophiles to manage and track their book collections. It allows users to catalog their books, write and view reviews, and log reading sessions, all while keeping their literary adventures organized and accessible.
+The Book Collector App is a web application designed for bibliophiles to manage and track their book collections. It allows users to catalog their books, write and view reviews, and log reading sessions, all while keeping their literary adventures organized and accessible.
 
 ## Getting Started
 
